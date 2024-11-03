@@ -4,5 +4,5 @@ Nômade Programador é um guia prático e teórico de como se tornar um programa
 
 ### Pré Requisitos
 
-- [O Básico da Programação]().
+- [O Básico da Programação](https://github.com/esalanguerra/NomadeProgramador/tree/main/src/0.the-basics-of-programming).
   - Conceitos Básicos da Programação.
